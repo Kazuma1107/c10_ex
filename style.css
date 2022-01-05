@@ -64,7 +64,7 @@ footer {
   height: 50px;
   background-color: #aaa;
 }
-/*レスポンシブ対応のコード*/
+/*レスポンシブ対応のコード 再提出*/
 
 @media screen and (max-width: 768px) {
   main {
